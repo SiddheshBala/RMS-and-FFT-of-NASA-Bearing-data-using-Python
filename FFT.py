@@ -4,7 +4,7 @@ from scipy.fftpack import fft
 import os
 import pandas as pd
 
-file_path = r"F:/TCS Internship/2nd_test/"
+file_path = r"/2nd_test/"
 file_list = os.listdir(file_path)
 
 i = int(input("Enter the file you want to check:\t"))
